@@ -16,5 +16,5 @@ function numlines(){
 	fi
 
 }
-
+#output
 echo $(numlines $count)
